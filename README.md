@@ -54,6 +54,15 @@ git diff <branch name> - to compare branches, files, commits and more
 git merge <branch name> - to merge two branches 
 <br>
 git pull origin main - used to fetch, download remote repo and immidately transfer to local repo 
-
+<br>
+git log - to see commits
+<br>
+stages changes - git reset <file name> - for add
+<br>
+committed changes(for one commit) - git reset HEAD~1
+<br>
+committed changes(for many commits) - git reset --hard <commit hash> (git log to copy link)
+<br>
+to modify we do add and commit
 
 
