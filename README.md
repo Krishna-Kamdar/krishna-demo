@@ -52,6 +52,8 @@ git push-u origin main - write git push only
 git diff <branch name> - to compare branches, files, commits and more
 <br>
 git merge <branch name> - to merge two branches 
+<br>
+git pull origin main - used to fetch, download remote repo and immidately transfer to local repo 
 
 
 
